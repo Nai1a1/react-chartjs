@@ -1,0 +1,22 @@
+[
+  {
+    "label": "CASH_OUT",
+    "value": 2237500
+  },
+  {
+    "label": "PAYMENT",
+    "value": 2151495
+  },
+  {
+    "label": "CASH_IN",
+    "value": 1399284
+  },
+  {
+    "label": "TRANSFER",
+    "value": 532909
+  },
+  {
+    "label": "DEBIT",
+    "value": 41432
+  }
+]       
