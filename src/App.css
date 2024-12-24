@@ -1,4 +1,4 @@
-.App {
+.App, .datasetCard  {
   height: 100%;
   width: 100%;
   display: flex;
@@ -9,6 +9,11 @@
   gap: 2vw;
   flex-wrap: wrap;
   background-color: #ddd;
+}
+
+h2 {
+  margin: 20px 10px 0px;
+  width: 100%;
 }
 
 .dataCard {
@@ -29,15 +34,23 @@
   height: 20rem;
 }
 .customerCard {
-  width: 50%;
+  width: 30%;
   height: 20rem;
 }
 .amountCard {
-  width: 50%;
+  width: 30%;
   height: 20rem;
 }
 
 .fraudCard {
-  width: 40%;
+  width: 25%;
+  height: 20rem;
+}
+.fraudAmountCard, .fraudTransactionCard  {
+  width: 30%;
+  height: 20rem;
+}
+.fraudPercentageCard {
+  width: 50%;
   height: 20rem;
 }
